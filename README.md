@@ -3,10 +3,7 @@
 UIScrollView 
 
 
-Vertical Scrolling
 ![](UIScrollView(Vertical).gif)               
 
 
-
-Horizontal Scrolling
 ![](UIScrollView(Horizontal).gif)
